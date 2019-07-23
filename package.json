@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/RazanHajja/npm-lab-re-coded-gaziantep-2019#readme",
   "dependencies": {
-    "learn-browser": "^0.1.17"
+    "learn-browser": "^0.1.17",
+    "moment": "^2.24.0"
   }
 }
